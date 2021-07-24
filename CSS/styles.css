@@ -1,0 +1,161 @@
+
+h1{
+    color: #66BFBF;
+    font-size: 5rem;
+    margin: 100px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    line-height: 0.7;
+}
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+span{
+    text-decoration: underline;
+}
+
+p{
+    line-height: 2;
+}
+
+hr{
+    border-style: dotted;
+    border-width: 10px 0 0 0;
+    width: 5%;
+    border-color: grey;
+    margin-top: 40px;
+}
+
+#subtitle{
+    font-weight: normal;
+}
+
+#mount{
+    position: relative;
+    top: 120px;
+}
+
+#profile-img{
+    width: 17%;
+}
+
+#pro-desc{
+    width: 30%;
+    margin: auto;
+}
+
+#cm{
+    width: 30%;
+    margin: 40px auto 60px auto;
+}
+
+#footer-p{
+    color: #eaf6f6;
+    font-size: 0.9rem;
+    padding-top: 12px;
+}
+
+.top-container{
+    background-color: #e4f9f5;
+    padding-top: 100px;
+    padding-bottom: 120px;
+    position: relative;
+}
+
+.middle-container{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px 0;
+}
+
+
+.t-cloud{
+    position: absolute;
+    right: 400px;
+    top: 50px;
+}
+
+.b-cloud{
+    position: absolute;
+    left: 400px;
+    bottom: 400px;
+}
+
+.skill-row{
+    display: inline-block;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.wd-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.cyc-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-me{
+    padding: 50px;
+}
+
+.btn{
+    background-color: #66BFBF;
+    border: solid #66BFBF 1px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn:hover{
+    background-color: turquoise;
+}
+
+.footer-link{
+    color: #11999E;
+    margin: 30px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer-link:hover{
+    color: turquoise;
+}
+
+.icon-att{
+    margin-top: 16px;
+}
+
